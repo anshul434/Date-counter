@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+  background-color: #80800e; /* You can change this to any color you prefer */
+  padding: 40px;
+  border-radius: 5px;
+}
+
+.para-container {
+  background-color: #60a21a;
+  margin: 10px 0;
+  padding: 90px;
+  border-radius: 5px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.custom-button {
+  width: 120px;
+  background-color: #60a21a;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.p {
+  font-size: 30px;
+  font-weight: bold;
+}
